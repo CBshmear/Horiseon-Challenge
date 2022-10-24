@@ -16,3 +16,7 @@ The code lacked any real structure and was basically div soup. No sections were 
 
 https://cbshmear.github.io/Horiseon-Challenge/
 
+## Mock-up
+```md
+    ![alt text](assets/images/01-html-css-git-homework-demo)
+    ```
