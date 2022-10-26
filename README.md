@@ -25,3 +25,7 @@ https://cbshmear.github.io/Horiseon-Challenge/
 
 Referenced semantic html tags and structure from this site.
 https://www.w3schools.com/html/html5_semantic_elements.asp
+
+## License
+
+I would have used an MIT license but truthfully this code was provided for me by my instructor team and is not my own. 
