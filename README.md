@@ -10,7 +10,7 @@ The code now reflects these principles and is much easier to comprehend as a dev
 
 ## Issues Faced
 
-The code lacked any real structure and was basically div soup. No sections were laid out and the code lacked a main body. One of the links in the nav bar was not functioning. 
+The code lacked any real structure and was basically div soup. No sections were laid out and the code lacked a main body. One of the links in the nav bar was not functioning. None of the images had alt tags. 
 
 ## Link to deployed webpage
 
@@ -20,3 +20,8 @@ https://cbshmear.github.io/Horiseon-Challenge/
 
     
 ![01-html-css-git-homework-demo](https://user-images.githubusercontent.com/112667575/197658945-3bafafde-fa60-41f3-9e8d-2590f85df2e8.png)
+
+## Credits
+
+Referenced semantic html tags and structure from this site.
+https://www.w3schools.com/html/html5_semantic_elements.asp
